@@ -27,6 +27,7 @@ The Plant List Website.
 Jinlong Zhang
 }
 \examples{
-    path <- system.file("extdata", "CTPL_test.txt", package = "plantlist")
-    CTPL(file = path)
+# Do not Run
+# path <- system.file("extdata", "CTPL_test.txt", package = "plantlist")
+# CTPL(file = path)
 }

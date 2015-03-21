@@ -43,4 +43,5 @@ splist <- c( "Ranunculus japonicus", "Solanum nigrum", "Punica sp.",
              "Machilus", "Today", "####" ) 
 res <- TPL(splist)
 taxa.table(res)
+
 }
