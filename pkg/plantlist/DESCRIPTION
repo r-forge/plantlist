@@ -7,7 +7,7 @@ Authors@R: person("Jinlong Zhang", "Developer", role = c("aut", "cre"),
 		     email = "jinlongzhang01@gmail.com")
 Author: Jinlong Zhang [aut, cre]           
 Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
-Description: Looking Up Plant Families and Orders, and building Checklist of Plants and herbarium labels. 
+Description: Looking up APGIII Families for plant species, and preparing taxa table for online software Phylomatic. 
 License: GPL-2
 LazyLoad: yes
 URL: https://r-forge.r-project.org/projects/plantlist/
