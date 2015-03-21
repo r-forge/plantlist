@@ -12,8 +12,8 @@ Looking up Higher Plant Families based on Kew Families and the plantlist website
 \tabular{ll}{
 Package: \tab plantlist\cr
 Type: \tab Package\cr
-Version: \tab 0.1.0\cr
-Date: \tab 2014-11-27\cr
+Version: \tab 0.1.2\cr
+Date: \tab 2015-3-21\cr
 License: \tab GLP-2\cr
 LazyLoad: \tab yes\cr
 }
