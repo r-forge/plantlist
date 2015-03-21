@@ -3,9 +3,13 @@ Type: Package
 Title: Looking Up Families of Higher Plants
 Version: 0.1.1
 Date: 2015-1-28
-Author: Jinlong Zhang
-Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
+Authors@R: Jinlong Zhang
+person("Joe", "Developer", role = c("aut", "cre"),
+		     email = "Joe.Developer@some.domain.net")
+             
+Maintainer: Jinlong Zhang [aut, cre]
 Description: Looking Up Plant Families and Orders, and building Checklist of Plants and herbarium labels. 
 License: GPL-2
 LazyLoad: yes
+URL: https://r-forge.r-project.org/projects/plantlist/
 Packaged: 2015-03-19 08:21:19 UTC; jlzhang
