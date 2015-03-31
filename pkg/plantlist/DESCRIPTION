@@ -1,13 +1,13 @@
 Package: plantlist
 Type: Package
 Title: Looking Up Families of Higher Plants
-Version: 0.1.3
+Version: 0.1.4
 Date: 2015-3-31
 Authors@R: person("Jinlong", "Zhang", role = c("aut", "cre"),
 		     email = "jinlongzhang01@gmail.com")
 Author: Jinlong Zhang [aut, cre]           
 Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
-Description: Looking up APGIII Families for plant species, and preparing taxa table for online software Phylomatic. 
+Description: Looking up APGIII Families for plant species and preparing taxa table for Phylomatic. 
 License: GPL-2
 LazyLoad: yes
 URL: https://r-forge.r-project.org/projects/plantlist/
