@@ -1,8 +1,8 @@
 Package: plantlist
 Type: Package
 Title: Looking Up Families of Higher Plants
-Version: 0.1.2
-Date: 2015-3-21
+Version: 0.1.3
+Date: 2015-3-31
 Authors@R: person("Jinlong", "Zhang", role = c("aut", "cre"),
 		     email = "jinlongzhang01@gmail.com")
 Author: Jinlong Zhang [aut, cre]           
