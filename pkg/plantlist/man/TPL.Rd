@@ -26,7 +26,10 @@ A data frame containing Genus, Kew Genus, Kew Family, The plantlist Family (for 
 A small proportion of genus has been divided into several genera, even being placed into different families, this will lead to multiple entries for one enquiry. Pay attention to these issues.
 }
 \references{
-Bremer, B., K. Bremer, et al. 2009. An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III. Botanical Journal of the Linnean Society.
+Bremer, Birgitta, K. Bremer, Mark Chase, Mike Fay, James Reveal, Douglas Soltis, Pamella Soltis and Peter Stevens. (2009) "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III." Botanical Journal of the Linnean Society.
+
+Haston, E., Richardson, J. E., Stevens, P. F., Chase, M. W. and Harris, D. J. (2009). The Linear Angiosperm Phylogeny Group (LAPG) III: a linear sequence of the families in APG III. Botanical Journal of the Linnean Society, 161(2), 128-131.
+
 }
 \author{
 Jinlong Zhang \email{ jinlongzhang01@gmail.com }
