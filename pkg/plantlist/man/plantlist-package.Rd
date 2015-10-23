@@ -3,17 +3,17 @@
 \alias{plantlist}
 \docType{package}
 \title{
-Looking up Plant Families based on Kew Families and the Plantlist Website
+Looking up Plant Families based on APGIII Classification System and More
 }
 \description{
-Looking up Higher Plant Families based on Kew Families and the plantlist website, and making taxa table for Phylomatic. 
+Looking up Higher Plant Families based on APGIII Classification System, and making taxa table for Phylomatic Software for building large phylogenies without DNA sequences. 
 }
 \details{
 \tabular{ll}{
 Package: \tab plantlist\cr
 Type: \tab Package\cr
-Version: \tab 0.1.4\cr
-Date: \tab 2015-3-31\cr
+Version: \tab 0.1.8\cr
+Date: \tab 2015-8-18\cr
 License: \tab GLP-2\cr
 LazyLoad: \tab yes\cr
 }
