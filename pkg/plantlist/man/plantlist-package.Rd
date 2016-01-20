@@ -12,8 +12,8 @@ Looking up Higher Plant Families based on APGIII Classification System, and maki
 \tabular{ll}{
 Package: \tab plantlist\cr
 Type: \tab Package\cr
-Version: \tab 0.1.8\cr
-Date: \tab 2015-8-18\cr
+Version: \tab 0.2.0\cr
+Date: \tab 2015-11-28\cr
 License: \tab GLP-2\cr
 LazyLoad: \tab yes\cr
 }
