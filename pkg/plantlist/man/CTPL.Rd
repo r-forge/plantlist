@@ -1,23 +1,30 @@
 \name{CTPL}
 \alias{CTPL}
 \title{
-Search Families Based on Chinese Names of Plants
+Search Families Based on Scientific or Chinese Names of Plants
 }
 \description{
 This function prepare checklist of plants with scientific name, Kew Family and APGIII family based on Chinese Names specified in an text file.
 }
 \usage{
-CTPL(file = NULL)
+CTPL(taxa = NULL, taxafile = NULL, outfile = "CTPL_results.csv")
 }
 \arguments{
-  \item{file}{
-Character string of the file name.
+  \item{taxa}{
+  Character vector of the species names.
+}
+  \item{taxafile}{
+  Character string of the text file containing the species names to search.
+}
+  \item{outfile}{
+  Name of the CSV file containing the results
 }
 }
 \details{
-The file containing Chinese Names must be in plain text, and encoded in ANSII, one row for one species. 
+The file containing Chinese Names must be in plain text, and encoded in ANSII (Windows) or UTF-8 (Linux or MacOS), one row for one species. 
 }
 \value{
+A data frame of the species with family. 
 A file "CTPL_results.csv" will be generated in the working directory.
 }
 \references{
