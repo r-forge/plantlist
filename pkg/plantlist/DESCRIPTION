@@ -1,17 +1,13 @@
-Package: plantlist
+Package: herblabel
 Type: Package
-Title: Looking Up Families of Higher Plants
-Version: 0.1.8
-Date: 2015-8-18
+Title: Making Labels for Herbarium Specimens in RTF and More
+Version: 0.3.26
+Date: 2016-1-19
 Authors@R: person("Jinlong", "Zhang", role = c("aut", "cre"),
-		     email = "jinlongzhang01@gmail.com")
-Author: Jinlong Zhang [aut, cre]           
+                  email = "jinlongzhang01@gmail.com")
+Author: Jinlong Zhang [aut, cre]
 Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
-Description: Looking up Families for plant species and 
-             preparing taxa table for Phylomatic Software 
-             for building large phylogenies without 
-             DNA sequences. 
+Description: Making Labels for Herbarium Specimens in RTF based on Darwin Core Templates.
 License: GPL-2
 LazyLoad: yes
-URL: https://github.com/helixcn/plantlist/
-
+URL: https://github.com/helixcn/herblabel
